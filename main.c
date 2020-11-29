@@ -41,6 +41,11 @@
 * 
 * 
 */
+
+/// ToDo:   Continue implementing the fano decoder,
+///         the codetree looks like it works, test more
+///         implement codetree symbol lookup to convert the code bit stream into its symbol
+
 sfile message;
 
 
